@@ -1,0 +1,7 @@
+v 4
+file . "two_four_tb.vhdl" "0bb74d161cbe563b249a86b33a376c410bddb91f" "20240210144741.893":
+  entity bench at 1( 0) + 0 on 13;
+  architecture bench of bench at 8( 80) + 0 on 14;
+file . "two_four.vhdl" "013625bd7f490232f811ee618ac567307c514ac9" "20240210144551.350":
+  entity test at 1( 0) + 0 on 11;
+  architecture test of test at 10( 154) + 0 on 12;

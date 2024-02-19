@@ -1,0 +1,100 @@
+$date
+  Mon Feb 19 09:50:47 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module and_or_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var reg 1 $ z $end
+$scope module uut $end
+$var reg 1 % a $end
+$var reg 1 & b $end
+$var reg 1 ' c $end
+$var reg 1 ( z $end
+$var reg 1 ) e $end
+$scope module u1 $end
+$var reg 1 * x $end
+$var reg 1 + y $end
+$var reg 1 , w $end
+$upscope $end
+$scope module u2 $end
+$var reg 1 - x $end
+$var reg 1 . y $end
+$var reg 1 / w $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+0)
+0*
+0+
+0,
+0-
+0.
+0/
+#10000000
+1!
+1#
+1$
+1%
+1'
+1(
+1*
+1.
+1/
+#20000000
+1"
+0#
+1$
+1&
+0'
+1(
+1)
+1+
+1,
+1-
+0.
+1/
+#30000000
+0!
+0"
+0$
+0%
+0&
+0(
+0)
+0*
+0+
+0,
+0-
+0/
+#40000000
+1"
+1#
+1$
+1&
+1'
+1(
+1+
+1.
+1/
+#50000000

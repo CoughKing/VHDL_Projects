@@ -1,0 +1,11 @@
+v 4
+file . "fa_tb.vhdl" "7b3044fdea506d26c038d89eb53c505b209dea21" "20240210150330.593":
+  entity fa_test at 1( 0) + 0 on 17;
+  architecture test_bench of fa_test at 7( 82) + 0 on 18;
+file . "fa.vhdl" "f715a5e9ee3713f1155b8d3cd8b2a2469e2fd33a" "20240210150326.718":
+  entity or_gate at 2( 26) + 0 on 11;
+  architecture or_arch of or_gate at 12( 157) + 0 on 12;
+  entity half_adder at 18( 258) + 0 on 13;
+  architecture ha_arch of half_adder at 28( 397) + 0 on 14;
+  entity full_adder at 36( 550) + 0 on 15;
+  architecture fa_arch of full_adder at 45( 691) + 0 on 16;

@@ -1,0 +1,11 @@
+v 4
+file . "andingoring_tb.vhdl" "ed2152bec4517b0c383d24515666a8f96ea6d0e3" "20240219040407.991":
+  entity and_or_tb at 3( 41) + 0 on 17;
+  architecture behavior of and_or_tb at 9( 127) + 0 on 18;
+file . "andingoring.vhdl" "33e46dca453d85cd884696ef850aa051dbd3c6ed" "20240219040358.687":
+  entity or_gate at 2( 12) + 0 on 11;
+  architecture or_structural of or_gate at 12( 169) + 0 on 12;
+  entity and_gate at 21( 323) + 0 on 13;
+  architecture and_structural of and_gate at 31( 482) + 0 on 14;
+  entity question at 40( 647) + 0 on 15;
+  architecture question_structural of question at 50( 809) + 0 on 16;
